@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    background: linear-gradient(to right, rgb(229, 11, 185), rgb(167, 48, 236));
+}
+
+.header{
+
+}
+
+.header{
+    height: 60px;
+}
+
+h1, nav, ul, li, p{
+    display: inline;
+}
+
+li{
+    background:antiquewhite;
+    border: 1px solid blue;
+    padding: 5px;
+    margin: 5px;
+}
+
+li:hover{
+    border: 1px solid green;
+    background: rgb(208, 40, 213);
+}
+
+li:active{
+    border-color: red;
+    background: rgb(126, 23, 221);
+}

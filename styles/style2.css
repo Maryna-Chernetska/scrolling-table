@@ -1,0 +1,25 @@
+.wrapper{
+    background: linear-gradient(to right, rgb(229, 11, 185), rgb(167, 48, 236));
+}
+
+.main-concept{
+    background-color: rgb(227, 59, 210);
+    width: 100%;
+    height: 200px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+  
+td {
+    border: 1px solid #e60d6b;
+    padding: 8px;
+    text-align: center;
+    background-color: rgb(211, 11, 138);
+}
+  
+td:hover {
+    background-color: #c81ce2; 
+}
